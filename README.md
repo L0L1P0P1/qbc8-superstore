@@ -56,6 +56,8 @@ For the statistical analysis, we applied the **Mann-Whitney U test** to compare 
 ### Power BI
 We used **Power BI** to create a **star schema**-based **data warehouse** and developed a **dashboard** to provide interactive visualizations of the Superstore data. The dashboard includes insights related to profits, sales, and shipping performance.
 
+![image](https://github.com/user-attachments/assets/068904c4-3a58-48ba-b057-5f66178c7230)
+
 - **Star Schema**: Designed a data warehouse structure in Power BI to efficiently manage and analyze the data.
 - **Dashboard**: Created a Power BI dashboard to visualize key performance metrics and trends.
 
