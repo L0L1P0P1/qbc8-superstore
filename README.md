@@ -74,7 +74,7 @@ To run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/qbc8-superstore.git
+   git clone https://github.com/L0L1P0P1/qbc8-superstore.git
    ```
 
 2. Install the dependencies using Poetry:
