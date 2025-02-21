@@ -1,0 +1,26 @@
+,0
+ordinal__Market,0.011201804454918411
+ordinal__Category,0.011249775727349134
+passthorugh__Discount,0.013100130657132414
+ordinal__Region,0.0179908832788374
+ordinal__Segment,0.021000619385557643
+passthorugh__Order Date Month,0.021831337849307478
+passthorugh__Country_Standard Class,0.028859792548621935
+passthorugh__Quantity,0.029598840294061377
+passthorugh__Country_Second Class,0.030361050174090305
+passthorugh__State_Same Day,0.030460592043093454
+passthorugh__Country_First Class,0.0312282379989589
+passthorugh__Country_Same Day,0.03128139149573498
+passthorugh__City_Same Day,0.0325539047109992
+passthorugh__State_First Class,0.03443068169488861
+passthorugh__State_Standard Class,0.03533037931959354
+passthorugh__State_Second Class,0.035799786829315755
+ordinal__Sub-Category,0.04102585746014088
+passthorugh__City_First Class,0.04366932985778444
+passthorugh__City_Standard Class,0.05320402790027381
+passthorugh__City_Second Class,0.05323802104156887
+scalar__Sales,0.05661431412067766
+scalar__Price Per Unit,0.058801233008668186
+scalar__Profit,0.06308594287219262
+passthorugh__Order Date Day,0.08844798177602875
+ordinal__Order Priority,0.12563408350020427
